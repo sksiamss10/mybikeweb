@@ -7,6 +7,8 @@
     text-decoration: none;
     list-style: none;
     font-family: 'Roboto', sans-serif;
+    user-select: none;
+    -webkit-user-drag: none;
 }
 body{
     width:100vw;
